@@ -1,0 +1,13 @@
+How does an internet work? What happens when you click on a link?
+When we enter the link the request is sent to the web server to  access the information the server then accept the request and send HTML in response. It then read the HTML file and then run the JAVASCRIPT code an display it on the browser. The responses are of many types HTML, CSS, JAVASCRIPT, JSON, PNG. It just depends what all responses are involved in a page. 
+
+
+
+The link is basically a URL: Uniform Resource Locator that contains the location of the resources on the internet that need to be accessed. URL itself consist of protocol, domain and endpoint. all three plays an important role in accessing the information from the location. 
+example of URL : https://devmountain.com/about.html
+Protocol: It is a set of rules used by the browser so as to communicate with computer. In URL Hyper Text MarkUp Language(HTTP )follows the protocol and HTTPS make sure the information is exchanged securely over the network. 
+
+Domain: devmountain.com is a host name for people to understand but before it gets converted to IP address before requesting and that process is called DNS Domain Name System.
+
+Endpoint : /about.html is the information that is pulled from the client server and access particularly the about in this case, it could be contact us or welcome, or address.
+
